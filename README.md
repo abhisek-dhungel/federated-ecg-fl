@@ -57,7 +57,7 @@ Each heartbeat is classified into one of 5 AAMI classes:
 ### 1) Clone and go to project folder
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/federated-ecg-fl.git
+git clone https://github.com/abhisek-dhungel/federated-ecg-fl.git
 cd federated-ecg-fl
 ```
 
